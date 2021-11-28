@@ -1,5 +1,4 @@
-# marvel_challenge
-
+# Marvel Challenge Soft
 A new Flutter project.
 
 ## Getting Started
